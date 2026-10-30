@@ -1,0 +1,6 @@
+{
+  "name": "BioHub Studio · Juan Carlos Tambani",
+  "description": "Agrupador de links e hub digital pessoal de alta performance com Bento Grid interativo, temas personalizados, estatísticas e player imersivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
